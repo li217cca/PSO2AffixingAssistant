@@ -2530,6 +2530,14 @@ const lang = Object.freeze({
         "effect_jp": "レヴリー系特殊能力の継承成功率を大幅に上昇\nALL(+10)",
         "effect_glen": "Boosts Reverie-type ability transfer rates.<br>ALL(+10)"
     },
+    "XM01": {
+        "name_en": "Glare Receptor",
+        "name_jp": "グレアレセプター",
+        "name_glen": "Glare Receptor",
+        "effect_en": "Boosts Glare-type ability transfer rates.<br>ALL(+10)",
+        "effect_jp": "グレア系特殊能力の継承成功率を大幅に上昇\nALL(+10)",
+        "effect_glen": "Boosts Glare-type ability transfer rates.<br>ALL(+10)"
+    },
     "ROC1": {
         "name_en": "Ringa Soul",
         "name_jp": "リンガ・ソール",

@@ -3677,6 +3677,22 @@ let data = {
             ],
             "ref": "$$",
             "success": 10
+        },
+        {
+            "base": [
+                "XM01",
+                "TN0*"
+            ],
+            "ref": "$$",
+            "success": 100
+        },
+        {
+            "base": [
+                "XM01",
+                "TN1*"
+            ],
+            "ref": "$$",
+            "success": 10
         }
     ],
     "extraSlot": [
@@ -10156,6 +10172,19 @@ let data = {
             "code": "XL01",
             "gid": "GB",
             "ref": 685
+        },
+        {
+            "name": "Glare Receptor",
+            "jpName": "グレアレセプター",
+            "effect": "Greatly increases Glare affix rate",
+            "jpEffect": "グレア系特殊能力の継承成功率を大幅に上昇\nALL(+10)",
+            "hasSAF": true,
+            "hasAddItem": false,
+            "isSSA": false,
+            "simCode": "XM01",
+            "code": "XM01",
+            "gid": "GB",
+            "ref": 689
         },
         {
             "name": "Ringa Soul",
