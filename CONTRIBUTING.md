@@ -21,6 +21,12 @@ The PSO2 Affixing Assistant project strives for great community engagement to ke
 * Shall there be any issues while executing rebuild.bat, report it as soon as possible via an Issue [here](https://github.com/malulleybovo/PSO2AffixingAssistant/issues) as it might be due to structural changes in the source websites used to update the Assistant.
 * Once the application is built successfully, indicated by a "Build Complete!" message in the terminal at the end of execution, thoroughly test the application to ensure everything works as expected.
 
+
+## My test run
+
+* `npm i express`
+* `node --eval "require('./server.js')"`
+
 ## Testing the Update
 
 * Make sure you have [NodeJS express npm package installed](https://www.npmjs.com/package/express) before proceeding.
