@@ -22,7 +22,7 @@ The PSO2 Affixing Assistant project strives for great community engagement to ke
 * Once the application is built successfully, indicated by a "Build Complete!" message in the terminal at the end of execution, thoroughly test the application to ensure everything works as expected.
 
 
-## My test run
+## LJR test run
 
 * `npm i express`
 * `node --eval "require('./server.js')"`
